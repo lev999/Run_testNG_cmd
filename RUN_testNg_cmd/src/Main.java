@@ -3,6 +3,8 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+//http://stackoverflow.com/questions/7100821/suddenly-cant-run-testng-tests-from-ant-testng-caused-by-java-lang-classnot
+//http://www.tutorialspoint.com/testng/testng_executing_tests.htm
 
 // to standart testng-6.8.21.jar need to add jcommander-1.7.jar!
 
